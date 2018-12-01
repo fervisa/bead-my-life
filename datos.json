@@ -1,0 +1,40 @@
+{
+  "llaveros": [
+    {
+      "nombre": "Planta Mario",
+      "largo": 5,
+      "ancho": 5,
+      "foto": "https://firebasestorage.googleapis.com/v0/b/keychains-8253e.appspot.com/o/fotos%2Fplanta_maceta.jpeg?alt=media&token=ceff5594-e3f8-434c-8d29-673982eee40e",
+      "precio": 60 },
+    {
+      "nombre": "Tortugas Ninja",
+      "largo": 5,
+      "ancho": 5,
+      "foto": "https://firebasestorage.googleapis.com/v0/b/keychains-8253e.appspot.com/o/fotos%2Ftmnt_keychains.jpeg?alt=media&token=90f672e7-9430-458b-b957-8c54089dba3e",
+      "precio": 60 },
+    {
+      "nombre": "Yoshi rostro",
+      "largo": 5,
+      "ancho": 5,
+      "foto": "https://firebasestorage.googleapis.com/v0/b/keychains-8253e.appspot.com/o/fotos%2Fyoshi_llavero.jpeg?alt=media&token=0d02919f-c623-4fcf-89f0-d1bee38481a3",
+      "precio": 60 },
+    {
+      "nombre": "Mario + Hongo",
+      "largo": 6,
+      "ancho": 6,
+      "foto": "https://firebasestorage.googleapis.com/v0/b/keychains-8253e.appspot.com/o/fotos%2Fmario_1up_llavero.jpeg?alt=media&token=da412f93-e170-4813-ac66-bb2cfa65df54",
+      "precio": 120 },
+    {
+      "nombre": "Link + Trifuerza",
+      "largo": 6,
+      "ancho": 6,
+      "foto": "https://firebasestorage.googleapis.com/v0/b/keychains-8253e.appspot.com/o/fotos%2Flink_trifuerza_llavero.jpeg?alt=media&token=5a86d930-ffab-4075-baf0-eb81ce4915b9",
+      "precio": 120 },
+    {
+      "nombre": "Estrella",
+      "largo": 6,
+      "ancho": 6,
+      "foto": "https://firebasestorage.googleapis.com/v0/b/keychains-8253e.appspot.com/o/fotos%2Festrella.jpeg?alt=media&token=bf5a6ec3-9fb7-48b0-a9a3-f25a8e5a5ba6",
+      "precio": 120 }
+  ]
+}

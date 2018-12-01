@@ -1,0 +1,12 @@
+@media (min-width: 768px) {
+  ion-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  }
+}
+
+ion-card.llavero ion-card-title {
+  margin-bottom: 4px;
+  /* border-bottom: 1px solid var(--ion-text-color-step-450, #737373);; */
+  padding-bottom: 5px;
+}
